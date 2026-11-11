@@ -1,0 +1,11 @@
+Jour fixe Projekt "Auftragsportal 2.0" – erfundene Demo-Notizen
+
+Dabei: Anna (PM), Ben (Backend), Clara (Frontend), David (Vertrieb)
+
+- Ben: Schnittstelle zum Lager ist zu 80 % fertig, Tests fehlen noch
+- Clara: Preisanzeige zeigt bei manchen Artikeln 3 Nachkommastellen, muss sie fixen
+- David: Kunde Muster GmbH will Rabattstaffel ab 1000 € statt ab 2000 €. Anna klärt mit GL
+- Beschluss: Go-Live bleibt beim 15. Januar
+- Anna fragt sich, ob wir für die Schulung der Kunden noch jemanden brauchen
+- Ben macht die Tests bis Freitag
+- Nächster Termin wieder Dienstag
